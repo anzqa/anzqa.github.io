@@ -1,3 +1,3 @@
 ## Hello World!
 
-\- :key: [anz](https://keybase.io/anz)
+\- [anz](https://keybase.io/anz)
